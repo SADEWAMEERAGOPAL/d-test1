@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border box;
+}
+
+body{
+	background-color: #000;
+	color: #fff;
+	height: 100vh;
+    display: flex;
+	justify-content: center;
+	align-items: center;	
+}
+
+.d-Clock{
+	font-size: 68px;
+	text-shadow: 10px 10px 20px #fff
+}
